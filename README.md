@@ -6,6 +6,8 @@ Earlier this year, I was afforded the opportunity to gain hands-on experience wi
 
 ## More about me
 
-- I speak Spanish and English.
-- HTML, CSS, JavaScript, Java (Maven, JavaFX), and MySQL are the main technologies I engage with daily at the moment. In addition, I've also worked with TypeScript, React, and SQL Server regularly.
 - I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand.
+- HTML, CSS, JavaScript, Java (Maven, JavaFX), and MySQL are the main technologies I engage with daily at the moment.
+- I'm learning Python for Django at the moment.
+- I've worked with React (with TypeScript) and SQL Server regularly in the past.
+- I speak Spanish and English.
