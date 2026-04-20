@@ -8,6 +8,6 @@ Earlier this year, I was afforded the opportunity to gain hands-on experience wi
 
 - I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand.
 - HTML, CSS, JavaScript, Java (Maven, JavaFX), and MySQL are the main technologies I engage with daily at the moment.
-- I'm learning Python for Django at the moment.
+- I'm learning Python for Django right now.
 - I've worked with React (with TypeScript) and SQL Server regularly in the past.
 - I speak Spanish and English.
