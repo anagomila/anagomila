@@ -1,4 +1,4 @@
-Hi! I'm Ana, a full-stack web developer with a frontend lean and an eye for design.
+Hi! I'm Ana, a full-stack web developer with a frontend lean, an interest in QA, and an eye for design.
 
 ## What I'm up to
 
@@ -8,7 +8,7 @@ Earlier this year, I was afforded the opportunity to gain hands-on experience wi
 
 I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand. I'm methodical, collaborative, and direct in my approaches.
 
-- **Currently working with:** HTML, CSS, JavaScript, Java (Maven, JavaFX), and MySQL.
+- **Currently working with:** HTML, CSS, JavaScript, Java (Maven, JavaFX), JUnit, and MySQL.
 - **Have worked with:** React (with TypeScript) and Microsoft SQL Server.
 - **Currently learning:** Python for Django + brushing up on React.
 
