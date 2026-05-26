@@ -8,8 +8,8 @@ Earlier this year, I was afforded the opportunity to gain hands-on experience wi
 
 I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand. I'm methodical, collaborative, and direct in my approaches.
 
-- **Currently working with:** HTML, CSS, JavaScript, Java (Maven, JavaFX), JUnit, and MySQL.
-- **Have worked with:** React (with TypeScript) and Microsoft SQL Server.
+- **Currently working with:** HTML, CSS, JavaScript, Java (Maven, Spring Boot), JUnit, and MySQL.
+- **Have worked with:** React (with TypeScript), Microsoft SQL Server, and JavaFX.
 - **Currently learning:** Python for Django + brushing up on React.
 
 Feel free to connect if anything resonates! I'm always up for talking tech.
