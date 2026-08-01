@@ -8,7 +8,7 @@ I'm currently working as a junior software developer for the summer and slowly b
 
 I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand. I'm methodical, collaborative, and direct in my approaches.
 
-- **Currently working with:** React, TypeScript, JavaScript, and Microsoft SQL Server.
+- **Currently working with:** React, TypeScript, JavaScript, Laravel, PHP, Flask, Python, and Microsoft SQL Server.
 - **Have worked with:** HTML, CSS, Java, JUnit, Spring Boot, MySQL, and JavaFX.
 - **Currently learning:** Svelte, Tailwind CSS, and PostgreSQL.
 
