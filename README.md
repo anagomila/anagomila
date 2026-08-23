@@ -1,8 +1,8 @@
-Hi! I'm Ana, a full-stack web developer with a frontend lean, an interest in QA, and an eye for design.
+Hi! I'm Ana, a full-stack developer with a love for software that's both delightful to use and well-crafted under the hood.
 
 ## What I'm up to
 
-I'm currently working as a junior software developer for the summer and slowly building my portfolio.
+I'm currently working as a junior web developer for the summer and slowly building my portfolio.
 
 ## More about me
 
