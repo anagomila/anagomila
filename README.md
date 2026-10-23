@@ -8,4 +8,4 @@ I'm a 19-year-old <b>full-stack developer</b> with a love for software that's bo
 
 ## What I'm up to
 
-As of **September 2026**, I'm working as a junior full-stack developer, slowly building my portfolio, and studying web development formally at the same time.
+As of **October 2026**, I'm working as a junior full-stack developer, slowly building my portfolio, and studying web development formally at the same time.
