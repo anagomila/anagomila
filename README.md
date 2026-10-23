@@ -1,15 +1,11 @@
-Hi! I'm Ana, a full-stack developer with a love for software that's both delightful to use and well-crafted under the hood.
+# ☘️ Hello! I'm Ana
+
+I'm a 19-year-old <b>full-stack developer</b> with a love for software that's both delightful to use and well-crafted under the hood. I'm methodical, collaborative, and direct in my approaches.
+
+## Technologies I work with
+
+<img alt="JavaScript" height="28" src="https://img.shields.io/badge/-JavaScript-689742?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Python" height="28" src="https://img.shields.io/badge/-Python-689742?style=flat-square&logo=python&logoColor=white" /> <img alt="TypeScript" height="28" src="https://img.shields.io/badge/-TypeScript-689742?style=flat-square&logo=typescript&logoColor=white&v=1" /> <img alt="HTML5" height="28" src="https://img.shields.io/badge/-HTML5-689742?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" height="28" src="https://img.shields.io/badge/-CSS3-689742?style=flat-square&logo=css&logoColor=white" /> <img alt="Java" height="28" src="https://img.shields.io/badge/-Java-689742?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="C#" height="28" src="https://img.shields.io/badge/-C%23-689742?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt="PHP" height="28" src="https://img.shields.io/badge/-PHP-689742?style=flat-square&logo=php&logoColor=white" /> <img alt="React" height="28" src="https://img.shields.io/badge/-React-689742?style=flat-square&logo=react&logoColor=white" /> <img alt="Docker" height="28" src="https://img.shields.io/badge/-Docker-689742?style=flat-square&logo=docker&logoColor=white" /> <img alt="NextJS" height="28" src="https://img.shields.io/badge/-NextJS-689742?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt=".NET" height="28" src="https://img.shields.io/badge/-.NET-689742?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="Tailwind CSS" height="28" src="https://img.shields.io/badge/-Tailwind_CSS-689742?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="PostgreSQL" height="28" src="https://img.shields.io/badge/-PostgreSQL-689742?style=flat-square&logo=postgresql&logoColor=white&v=1" /> <img alt="MySQL" height="28" src="https://img.shields.io/badge/-MySQL-689742?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Microsoft SQL Server" height="28" src="https://img.shields.io/badge/-Microsoft_SQL_Server-689742?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img alt="Spring Boot" height="28" src="https://img.shields.io/badge/-Spring_Boot-689742?style=flat-square&logo=springboot&logoColor=white" /> <img alt="Laravel" height="28" src="https://img.shields.io/badge/-Laravel-689742?style=flat-square&logo=laravel&logoColor=white" /> <img alt="Flask" height="28" src="https://img.shields.io/badge/-Flask-689742?style=flat-square&logo=flask&logoColor=white" /> <img alt="JUnit" height="28" src="https://img.shields.io/badge/-JUnit-689742?style=flat-square&logo=junit5&logoColor=white" /> <img alt="Claude Code" height="28" src="https://img.shields.io/badge/-Claude_Code-689742?style=flat-square&logo=claude&logoColor=white" />
 
 ## What I'm up to
 
-I'm currently working as a junior web developer for the summer and slowly building my portfolio.
-
-## More about me
-
-I enjoy breaking down complex problems and writing clean, scalable code that others (and my future self) can understand. I'm methodical, collaborative, and direct in my approaches.
-
-- **Currently working with:** React, TypeScript, JavaScript, Laravel, PHP, Flask, Python, and Microsoft SQL Server.
-- **Have worked with:** HTML, CSS, Java, JUnit, Spring Boot, MySQL, and JavaFX.
-- **Currently learning:** Svelte, Tailwind CSS, and PostgreSQL.
-
-Feel free to connect if anything resonates! I'm always up for talking tech.
+As of **September 2026**, I'm working as a junior full-stack developer, slowly building my portfolio, and studying web development formally at the same time.
